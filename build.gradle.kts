@@ -10,7 +10,7 @@ repositories {
     maven("https://repo.purpurmc.org/snapshots")
     maven("https://jitpack.io")
     maven {
-        url = uri("https://maven.pkg.github.com/saturn745/LuaLink") // TODO: Change to the LuaLink organization
+        url = uri("https://maven.pkg.github.com/lualink/LuaLink") // TODO: Change to the LuaLink organization
     }
 }
 
